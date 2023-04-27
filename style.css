@@ -1,0 +1,21 @@
+header{
+
+    background-image: url(codificacion-programacion-desarrollo-web-codigo-computadora-banner-futurista-computadora-portatil_3482-5582.avif);
+}
+main{
+
+    background-image: url(istockphoto-1294521676-612x612.jpg);
+}
+.ipf{
+
+float: left;
+
+}
+
+.palabras{
+
+   background-color: black;
+   opacity: 0.8;
+   padding: 5px;
+      
+}
